@@ -1,0 +1,2 @@
+git+git://github.com/jantman/xfinity-usage@de0d8b08f880782cb5c10e3236063663d5beded0#egg=xfinity-usage
+toml~=0.10.0
